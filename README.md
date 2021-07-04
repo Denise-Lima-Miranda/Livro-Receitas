@@ -1,1 +1,3 @@
-# Livro-Receitas
+ # Livro de Receitas (:
+ 
+Coloquem suas Receitas
