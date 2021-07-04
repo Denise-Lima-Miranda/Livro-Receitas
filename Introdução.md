@@ -1,4 +1,0 @@
-# OLÁ!!
-
-## Minhas Receitas (:
-
